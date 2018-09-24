@@ -14,7 +14,7 @@
         return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
     }   
     var src;
-    var account_hash=getQueryStringValue('hash') ? getQueryStringValue('hash') : '255a91a0b4a0bf562e5148efc6de9b97';
+    var account_hash=getQueryStringValue('hash') ? getQueryStringValue('hash') : '4c1ca085e6afead11c7f9fb519ffed68';
     if(getQueryStringValue('env') == "") {
         src = 'https://cdn.pushcrew.com/js/'+ account_hash + '.js';
     } else {
