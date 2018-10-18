@@ -1,6 +1,6 @@
 {
-    "name": "httpsnew",
-    "short_name": "httpsnew",
+    "name": "https",
+    "short_name": "https",
     "icons": [{
         "src": "/logo_192_by_192.png",
         "sizes": "192x192",
