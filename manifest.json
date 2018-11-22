@@ -1,6 +1,6 @@
 {
-    "name": "https",
-    "short_name": "https",
+    "name": "sakshingp - http",
+    "short_name": "sakshingp - http",
     "icons": [{
         "src": "/logo_192_by_192.png",
         "sizes": "192x192",
@@ -8,6 +8,6 @@
     }],
     "start_url": "/",
     "display": "standalone",
-    "gcm_sender_id": "597858669315",
+    "gcm_sender_id": "",
     "gcm_user_visible_only": true
 }
